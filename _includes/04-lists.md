@@ -1,3 +1,3 @@
--actors
--movies
--plays
+* actors
+* movies
+* plays
