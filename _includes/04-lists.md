@@ -1,0 +1,3 @@
+* actors
+* movies
+* plays
